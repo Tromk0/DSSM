@@ -1,3 +1,3 @@
 # deepseek-wangyei
 
-https://Tromk0.github.io/deepseek-wamgyei/
+https://Tromk0.github.io/deepseek-wangyei/
